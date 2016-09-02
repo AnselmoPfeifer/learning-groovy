@@ -1,0 +1,5 @@
+Curso de Groovy - Modulo 01 Alternando valores entre variaveis estaticamente e dinamicamente tipada.
+Curso de Groovy - Modulo 02 Impressao de resultados; Impressao Tipos; Trabalando com operadores matematicos.
+Curso de Groovy - Modulo 03 Introducao ao Closures.
+Curso de Java - Modulo 04 Trabalhando com colecoes.
+Curso de Java - Modulo 05 Trabalhando com arquivos, entradas e saida de dados.
