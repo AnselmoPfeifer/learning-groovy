@@ -14,7 +14,10 @@ Modulo 03
 Modulo 04
     Trabalhando com colecoes
      
-
+Modulo 05
+    Trabalhando com arquivos, entradas e saida de dados.
+    
+    
 Comandos
 - groovysh
     abre um interpretador groovy que permite escrever codigos diretamente no terminal.
