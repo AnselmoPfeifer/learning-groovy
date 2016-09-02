@@ -11,24 +11,19 @@ def tecnologias = [
 /*
     Usando closure para trabalhar com map de valores
  */
+def texto = "Outra forma de fazer a impressao"
 
-println "Tecnologias.name = ${tecnologias.nome}"
-println "Tecnologias.name = ${tecnologias.sobrenome}"
-
-println ""
-
-println "Outra forma de fazer a impressao"
-println "Tecnologias.name = ${tecnologias['nome']}"
-println "Tecnologias.name = ${tecnologias['sobrenome']}"
+println "${tecnologias.nome} ${tecnologias.sobrenome}"
 
 println ""
-
-println "Outra forma de fazer a impressao"
-println "Tecnologias.name = ${tecnologias.get('nome')}"
-println "Tecnologias.name = ${tecnologias.get('sobrenome')}"
+println texto
+println "${tecnologias['nome']} ${tecnologias['sobrenome']}"
 
 println ""
+println texto
+println "${tecnologias.get('nome')} ${tecnologias.get('sobrenome')}"
 
-println "Outra forma de fazer a impressao"
-println "Tecnologias.name = ${tecnologias.getAt('name')}"
-println "Tecnologias.name = ${tecnologias.getAt('nivel')}"
+
+println ""
+println texto
+println "${tecnologias.getAt('nome')} ${tecnologias.getAt('sobrenome')}"
