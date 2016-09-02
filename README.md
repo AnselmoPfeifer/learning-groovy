@@ -10,7 +10,11 @@ Modulo 02
   
 Modulo 03
     Introducao ao Closures
-    
+
+Modulo 04
+    Trabalhando com colecoes
+     
+
 Comandos
 - groovysh
     abre um interpretador groovy que permite escrever codigos diretamente no terminal.
