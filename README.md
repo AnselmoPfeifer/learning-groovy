@@ -14,9 +14,10 @@ Modulo 03
 
 Modulo 04
     Trabalhando com colecoes
-     
+ 
 Modulo 05
-    Trabalhando com arquivos, entradas e saida de dados.
+    Trabalhando com arquivos e diretorios
+
     
     
 Comandos

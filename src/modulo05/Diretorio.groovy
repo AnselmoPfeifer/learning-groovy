@@ -16,6 +16,7 @@ new File(diretorio).eachFile {
             listaDiretoio(file, arquivos)
         }
         else{
+            println "Arquivos: $file"
             println "Arquivos: $file.name"
 
         }
