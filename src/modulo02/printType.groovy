@@ -1,3 +1,5 @@
+package modulo02
+
 class PrintType{
   static void main (String[] args){
 

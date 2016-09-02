@@ -1,3 +1,5 @@
+package modulo02
+
 class MathOperator{
   static void main (String[] args){
     def randNum = 2.0;

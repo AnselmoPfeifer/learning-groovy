@@ -1,3 +1,5 @@
+package modulo02
+
 class PrintResult{
   static void main (String[] args){
     println("Helo Word");

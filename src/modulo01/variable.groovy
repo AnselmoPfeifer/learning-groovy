@@ -1,3 +1,5 @@
+package modulo01
+
 def name = "Groovy" //Variavel dinamicamente tipada
 int age = 10 //Variavel  staticamente tipada
 
