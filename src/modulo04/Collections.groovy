@@ -20,6 +20,7 @@ over the names array and then call the closure for each element in the array.
 This closure takes an array element as parameter.
 */
 
+//Trabalhando com array usando closure
 names.each{
     element ->
     println "The city is ${element}"
