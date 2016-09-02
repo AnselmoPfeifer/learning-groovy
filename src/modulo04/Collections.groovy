@@ -14,10 +14,15 @@ string of a famous city
 names = ["Paris", "New York", "Tokio", "Las Vegas", "Rio de Janeiro", "London"]
 
 /*
-All groovy colletions have several helper methods, in the code bellow
+All groovy colletions have several helper methods, in the code' bellow
 where are calling the "each"method that a closure as parameter as internally iterates
 over the names array and then call the closure for each element in the array.
 This closure takes an array element as parameter.
 */
 
-names.ea
+names.each{
+    element ->
+    println "The city is ${element}"
+    println "The city '${element}' have ${element.size()} characters"
+}
+println "has ${names.size()} city in list."
