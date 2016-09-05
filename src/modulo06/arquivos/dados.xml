@@ -1,17 +1,27 @@
-<publications>
-  <publication title='Introdução a programacao Groovy' year='2016'>
-    <authors>
-      <author>Anselmo Pfeifer</author>
-    </authors>
-  </publication>
-  <publication title='Java Server Faces' year='2015'>
-    <authors>
-      <author>Anselmo Pfeifer</author>
-    </authors>
-  </publication>
-  <publication title='JPA e Hibernate' year='2016'>
-    <authors>
-      <author>Anselmo Pfeifer</author>
-    </authors>
-  </publication>
-</publications>
+<publicacoes>
+  <publicacao titulo='Introdução a programacao Groovy' ano='2016'>
+    <autores>
+      <autor>Anselmo Pfeifer</autor>
+    </autores>
+  </publicacao>
+  <publicacao titulo='Java Server Faces' ano='2015'>
+    <autores>
+      <autor>Anselmo Pfeifer</autor>
+    </autores>
+  </publicacao>
+  <publicacao titulo='JPA e Hibernate' ano='2016'>
+    <autores>
+      <autor>Anselmo Pfeifer</autor>
+    </autores>
+  </publicacao>
+  <publicacao titulo='JPA e Hibernate' ano='2016'>
+    <autores>
+      <autor>Anselmo Pfeifer</autor>
+    </autores>
+  </publicacao>
+  <publicacao titulo='Java Server Faces' ano='2015'>
+    <autores>
+      <autor>Anselmo Pfeifer</autor>
+    </autores>
+  </publicacao>
+</publicacoes>
