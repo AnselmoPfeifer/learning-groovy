@@ -18,6 +18,11 @@ Modulo 04
 Modulo 05
     Trabalhando com arquivos e diretorios
 
+Modulo 06
+    Manipulando arquivos XMLs
+   
+Modulo 07
+    WebService 
     
     
 Comandos

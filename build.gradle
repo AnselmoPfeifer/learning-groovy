@@ -1,0 +1,11 @@
+apply plugin: 'groovy'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy-all:2.4.7'
+    compile group: 'org.codehaus.groovy.modules', name: 'groovyws', version: '0.5.2'
+
+}
