@@ -31,13 +31,13 @@ arquivo.publicacoes() {
         }
     }
 
-    publicacao(titulo: 'JPA e Hibernate', ano: 2016){
+    publicacao(titulo: 'CSS3', ano: 2016){
         autores() {
             autor('Anselmo Pfeifer')
         }
     }
 
-    publicacao(titulo: 'Java Server Faces', ano: 2015){
+    publicacao(titulo: 'HTML5', ano: 2016){
         autores() {
             autor('Anselmo Pfeifer')
         }
