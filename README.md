@@ -33,5 +33,6 @@ Comandos
     abre o console mais interativo que permite digitar codigos e simular em tempo de execução.
 
    
-https://www.youtube.com/watch?v=B98jc8hdu9g
-http://www.devmedia.com.br/curso/introducao-ao-groovy/55
+- https://www.youtube.com/watch?v=B98jc8hdu9g
+
+- http://www.devmedia.com.br/curso/introducao-ao-groovy/55
