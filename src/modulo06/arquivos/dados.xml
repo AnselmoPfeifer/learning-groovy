@@ -1,0 +1,17 @@
+<publications>
+  <publication title='Introdução a programacao Groovy' year='2016'>
+    <authors>
+      <author>Anselmo Pfeifer</author>
+    </authors>
+  </publication>
+  <publication title='Java Server Faces' year='2015'>
+    <authors>
+      <author>Anselmo Pfeifer</author>
+    </authors>
+  </publication>
+  <publication title='JPA e Hibernate' year='2016'>
+    <authors>
+      <author>Anselmo Pfeifer</author>
+    </authors>
+  </publication>
+</publications>
