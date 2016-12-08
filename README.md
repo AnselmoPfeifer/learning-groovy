@@ -1,29 +1,30 @@
 # Learning-Groovy
 Curso Básico de Groovy
 
-Modulo 01
+01 - variaveis
     Alternando valores entre variaveis estaticamente 
     e dinamicamente tipada
     
-Modulo 02
+02 - calculos
     Impressao de resultados 
     Impressao Tipos
     Trabalando com operadores matematicos
   
-Modulo 03
+03 - closures
     Introducao ao Closures
 
-Modulo 04
+04 - colecoes
     Trabalhando com colecoes
  
-Modulo 05
+05 - arquivos
     Trabalhando com arquivos e diretorios
 
-Modulo 06
+06 - arquivos-xml
     Manipulando arquivos XMLs
    
-Modulo 07
-    WebService 
+07 - webService
+
+08 - learnxinyminute
     
     
 Comandos
@@ -37,3 +38,5 @@ Comandos
 - https://www.youtube.com/watch?v=B98jc8hdu9g
 
 - http://www.devmedia.com.br/curso/introducao-ao-groovy/55
+
+- https://learnxinyminutes.com/docs/groovy/
