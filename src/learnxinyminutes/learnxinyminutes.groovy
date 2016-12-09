@@ -109,7 +109,6 @@ if (numero == 1) {
 // Explorando o suporte ao operador ternário
 def valor = 10
 def novoValor = (valor > 1)? "Certo": "Falhou"
-assert novoValor == "Certo"
 
-// TODO
-//displayName = user.name ? user.name : 'Anonymous'
+// Comentado se nao os test para por aqui.
+assert novoValor == "Falhou"
