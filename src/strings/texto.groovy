@@ -48,8 +48,10 @@ Visit http://www.pragmaticprogrammer.com/titles/vslg for more book information.
 println(texto)
 
 /*
-toLowerCas
 toUpperCase
 Contando os caracteres num texto
 */
 println (texto.length())
+println (texto.toUpperCase())
+
+

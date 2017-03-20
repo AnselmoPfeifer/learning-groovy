@@ -25,18 +25,28 @@ Curso Básico de Groovy
 07 - webService
 
 08 - learnxinyminute
-    
-    
-Comandos
-- groovysh
-    abre um interpretador groovy que permite escrever codigos diretamente no terminal.
-    
-- groovyConsole
-    abre o console mais interativo que permite digitar codigos e simular em tempo de execução.
 
-   
-- https://www.youtube.com/watch?v=B98jc8hdu9g
+# OBS:
+    - Num bloco de condigo em groovy o ultimo numero é sempre o return
+    - sendo assim nao necessita passar o return <valor> somente o valor a ser retornado: ex:
+    int soma(int x, int y) {
+        int z = x + x x
+        // return x + y
+           x + y
+    }
 
-- http://www.devmedia.com.br/curso/introducao-ao-groovy/55
 
-- https://learnxinyminutes.com/docs/groovy/
+    - O Operador ? evita o uso de verificacoes de null
+# Comandos
+    - groovysh
+    - groovyConsole
+
+# Links
+
+    - https://youtu.be/eEUKRhPoJAY?list=PLc2foeLQlP8-lhTI7K6iI7nw6E_iwAt-p
+
+    - https://www.youtube.com/watch?v=B98jc8hdu9g
+
+    - http://www.devmedia.com.br/curso/introducao-ao-groovy/55
+
+    - https://learnxinyminutes.com/docs/groovy/
