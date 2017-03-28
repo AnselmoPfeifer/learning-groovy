@@ -26,7 +26,6 @@ println msg + calculo(valor)
 println ""
 
 // Passando dois atributos
-
 public class Test2{
     public static int calculo2 (int numeroParaCalculo, int numeroParaCalculo2){
         return numeroParaCalculo * numeroParaCalculo2;
