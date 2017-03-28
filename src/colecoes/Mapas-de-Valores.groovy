@@ -4,8 +4,8 @@ package modulo04
  */
 
 def tecnologias = [
-        nome: "Anselmo",
-        sobrenome: "Pfeifer"
+        nome: "Pedro",
+        sobrenome: "Santos"
 ]
 
 /*

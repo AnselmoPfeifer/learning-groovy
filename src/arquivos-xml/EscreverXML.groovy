@@ -15,31 +15,31 @@ def arquivo = new MarkupBuilder(escrever)
 arquivo.publicacoes() {
     publicacao(titulo: 'Introdução a programacao Groovy', ano: 2016){
         autores() {
-            autor('Anselmo Pfeifer')
+            autor('Pedro Santos')
         }
     }
 
     publicacao(titulo: 'Java Server Faces', ano: 2015){
         autores() {
-            autor('Anselmo Pfeifer')
+            autor('Pedro Santos')
         }
     }
 
     publicacao(titulo: 'JPA e Hibernate', ano: 2016){
         autores() {
-            autor('Anselmo Pfeifer')
+            autor('Pedro Santos')
         }
     }
 
     publicacao(titulo: 'CSS3', ano: 2016){
         autores() {
-            autor('Anselmo Pfeifer')
+            autor('Pedro Santos')
         }
     }
 
     publicacao(titulo: 'HTML5', ano: 2016){
         autores() {
-            autor('Anselmo Pfeifer')
+            autor('Pedro Santos')
         }
     }
 }

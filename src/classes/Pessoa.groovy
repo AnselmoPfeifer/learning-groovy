@@ -7,8 +7,8 @@ class Pessoa {
 }
 
 Pessoa pessoa = new Pessoa()
-pessoa.nome = 'Anselmo'
-pessoa.sobreNome = 'Pfeifer'
+pessoa.nome = 'Pedro'
+pessoa.sobreNome = 'Santos'
 pessoa.idade = 30
 
 println pessoa.nome

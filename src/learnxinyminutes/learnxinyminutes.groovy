@@ -68,7 +68,7 @@ def meuMapa = [:]
 println meuMapa
 
 // Adicionando valores no Mapa
-meuMapa = ['nome':'Anselmo', 'sobrenome':'Pfeifer', 'cidade':'Campo Grande', 'estado': 'MS']
+meuMapa = ['nome':'Pedro', 'sobrenome':'Santos', 'cidade':'Campo Grande', 'estado': 'MS']
 meuMapa.put ('pais', 'Brasil')
 println meuMapa
 
@@ -78,7 +78,7 @@ meuMapa.each{ println "$it.key: $it.value"}
 // Verificar se no mapa contem ( X ) valor
 def mapa = meuMapa
 assert mapa.containsKey('nome')
-assert mapa.containsValue('Anselmo')
+assert mapa.containsValue('Pedro')
 // Imprimindo todos os itens (chave e valor do mapa
 println mapa.keySet()
 println mapa.values()
@@ -86,7 +86,7 @@ println mapa.values()
 
 class Test {
     // Declarando propriedade para somente leitura
-    final String nome = "Anselmo"
+    final String nome = "Pedro"
 
     // Propriedade somente leitura com getter público e setter protegido
     String language

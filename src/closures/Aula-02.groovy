@@ -1,3 +1,7 @@
+/**
+ * Created by anselmo on 23/03/17.
+ */
+
 /*
   Closures
   Em Groovy Closure é um bloco de codigo
@@ -59,11 +63,11 @@ chamandoClosure(100, 200)
 // adicionar encerramentos como métodos a uma instância dessa Classe
 // http://mrhaki.blogspot.mx/2009/10/groovy-goodness-expando-as-dynamic-bean.html
 
-def usuario = new Expando(nome: 'Anselmo')
-assert 'Anselmo' == usuario.nome
+def usuario = new Expando(nome: 'Pedro')
+assert 'Pedro' == usuario.nome
 
-usuario.sobreNome = 'Pfeifer'
-assert 'Pfeifer' == usuario.sobreNome
+usuario.sobreNome = 'Santos'
+assert 'Santos' == usuario.sobreNome
 
 usuario.idade = 18
 assert 18 == usuario.idade

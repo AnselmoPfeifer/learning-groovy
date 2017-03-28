@@ -7,8 +7,8 @@ def String nome
 def String sobrenome
 def int idade
 
-nome = "Anselmo"
-sobrenome = "Pfeifer"
+nome = "Pedro"
+sobrenome = "Santos"
 idade = 37
 
 sobre = "${nome} ${sobrenome} tem ${idade} anos!"
@@ -20,8 +20,8 @@ println sobre.class
 println sobre.class.superclass
 
 def maisSobre = '''
-Anselmo
-Pfeifer
+Pedro
+Santos
 37
 '''
 println(maisSobre.toLowerCase())

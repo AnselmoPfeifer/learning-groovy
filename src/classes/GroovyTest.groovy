@@ -11,8 +11,8 @@ class GroovyTest {
 
         println("Hello World");
 
-        def nome = "Anselmo"
-        def sobreNome = "Pfeifer"
+        def nome = "Pedro"
+        def sobreNome = "Santos"
         def nomeCompleto = "${nome} ${sobreNome}"
 
         println(nome)
