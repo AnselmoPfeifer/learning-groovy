@@ -1,8 +1,33 @@
-/**
- * Created by anselmo on 28/03/17.
- */
+class Pessoa{
 
+    String nome
+    int idade
 
-// TODO class mutantes em groovy
-// 08.21
-// https://www.youtube.com/watch?v=AQBxfYBifAk&index=2&list=PLc2foeLQlP8-lhTI7K6iI7nw6E_iwAt-p
+    public void digaMeuNome(){
+        println "Ola eu sou ${nome}"
+    }
+
+    public void digaMinhaIdade(){
+        println "${digaMeuNome()} e tenho ${idade} anos!"
+    }
+}
+
+def pessoa = new Pessoa(nome: "Meu Nome", idade: 30)
+def lista = ["nome", "idade"]
+
+for (item in lista ) {
+    println pessoa."${item}"
+}
+
+// Imprimindo as properties / methods de uma Meta Class de Pessoa ou qualquer outra class do Java.
+Pessoa.metaClass.properties.each {
+    println it.name
+}
+
+Pessoa.metaClass.methods.each {
+    println it.name
+}
+
+Date.metaClass.properties.each {
+    println it.name
+}

@@ -19,7 +19,7 @@ println "Executando (calculo) Calculo na forma padrao em OO"
 println msg +  Test.calculo(valor);
 println ""
 
-//Executado na maneira groovy usando closure
+// Executado na maneira groovy usando closure
 def calculo = { numero -> numero * numero }
 println "Executado (calculo) na maneira groovy usando closure"
 println msg + calculo(valor)

@@ -12,7 +12,7 @@
     https://learnxinyminutes.com/docs/groovy/
 */
 
-// Examplo 01:  Do uso de uma Closure, aqui so geramos o metodo e nao imprimimos nada!
+// Examplo 01:  do uso de uma Closure, aqui so geramos o metodo e nao imprimimos nada!
 def clos = {println "Hello World!... Closure criada!"}
 
 println "Imprimindo a closure (clos())"
