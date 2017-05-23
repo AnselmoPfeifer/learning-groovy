@@ -56,3 +56,5 @@
     - http://www.devmedia.com.br/curso/introducao-ao-groovy/55
 
     - https://learnxinyminutes.com/docs/groovy/
+
+    - http://groovy-lang.org/operators.html
