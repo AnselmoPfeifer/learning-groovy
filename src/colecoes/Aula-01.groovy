@@ -23,12 +23,12 @@ class Pessoa{
 List<Pessoa> pessoaList = new ArrayList<Pessoa>()
 pessoaList.add(new Pessoa("Nome", "SobreNome", 30))
 pessoaList.add(new Pessoa("Nome2", "SobreNome2", 20))
-//println pessoaList
+println pessoaList
 
 // Exemplo de adicionar itens usando Groovy
 pessoaList = [new Pessoa("Nome", "SobreNome", 30), new Pessoa("Nome2", "SobreNome2", 20)]
 pessoaList += [new Pessoa("Nome3", "SobreNome3", 21)]
-//println pessoaList
+println pessoaList
 
 // Exemplo de remover itens usando Groovy
 pessoaList = [new Pessoa("Nome", "SobreNome", 30), new Pessoa("Nome2", "SobreNome2", 20)]
