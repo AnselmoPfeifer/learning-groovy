@@ -18,7 +18,7 @@ Pessoa.metaClass.invokeMethod = {String nome, parametros ->
     println "Vou chamar ${nome}"
     def metodo = Pessoa.metaClass.getMetaMethod(nome)
     def retorno = metodo.invoke(delegate, parametros)
-    
+
     println "Chamei ${metodo}"
     return
 }

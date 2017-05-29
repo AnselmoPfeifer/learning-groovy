@@ -19,13 +19,13 @@ class Pessoa{
     }
 }
 
-pessoaList = [new Pessoa("Nome", "SobreNome", 30), new Pessoa("Nome2", "SobreNome2", 20)]
+pessoaList = [new Pessoa("MeuNome", "Sobre Nome", 30), new Pessoa("MeuNome", "Sobre Nome", 20)]
 
 // Interacao na lista
 pessoaList.each { pessoa ->
-    //println "${pessoa.nome} ${pessoa.sobreNome}"
+    //println "${pessoa.nome} - ${pessoa.sobreNome}"
 }
 
 // Fazendo um busca dentro de uma Lista
-pessoaList.find { it.nome == "Nome2" }
-pessoaList.findAll { it.nome == "Nome2" }
+println pessoaList.find { it.nome == "MeuNome" }
+println pessoaList.findAll { it.nome == "MeuNome" }

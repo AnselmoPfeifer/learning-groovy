@@ -18,7 +18,7 @@ println numbers
 
 println ""
 
-//Adicionando o numero 17 no final da lista
+// Adicionando o numero 17 no final da lista
 numbers << 17
 numerosInvertidos << 17
 println "Imprimindo o array de numeros e incluindo o valor 17 no final"
@@ -27,7 +27,7 @@ println numbers
 
 println ""
 
-//removendo o ultimo elemento da lista
+// Removendo o ultimo elemento da lista
 numbers.pop()
 numerosInvertidos.pop()
 println "Imprimindo o array de numeros e removendo o valor 17 do final"
